@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Contoh Audio di HTML</title>
+</head>
+<body>
+	<h1>Audio Sebagai Background</h1>
+	<h4>04 - treasure - bruno mars.mp3 (Auto Play dan selalu mengulang)</h4>
+	<audio hidden autoplay loop>
+		<source src="AUDIO/AronChupa - I'm an Albatraoz (Official Music Video).mp3" type="audio/mpeg">
+		Browsermu tidak mendukung tag audio, upgrade donk
+	</audio>
+	<h1>Contoh Audio di Web</h1>
+	<h4>Avril Lavigne - Wish You Were Here(Kontrol Biasa)</h4>
+	<audio controls>
+		<source src="AUDIO/Avril Lavigne - Wish You Were Here.mp3" type="audio/mpeg">
+		Browsermu tidak mendukung tag audio, upgrade donk
+	</audio>
+	<h4>Avril Lavigne - Wish You Were Here(Auto Muted)</h4>
+	<audio controls muted>
+		<source src="AUDIO/JAronChupa - I'm an Albatraoz (Official Music Video).mp3" type="audio/mpeg">
+		Browsermu tidak mendukung tag audio, upgrade donk
+	</audio>
+	<h4>Bon Jovi - It's My Life(Auto Loop)</h4>
+	<audio controls loop>
+		<source src="AUDIO/Tarik Sis - Bon Jovi - It's My Life.mp3" type="audio/mpeg">
+		Browsermu tidak mendukung tag audio, upgrade donk
+	</audio>
+</body>
+</html>
