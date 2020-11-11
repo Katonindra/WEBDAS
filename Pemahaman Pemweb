@@ -1,0 +1,78 @@
+Pemrograman web merupakan salah satu cabang ilmu dari pemrograman komputer. Ilmu ini mengimplementasikan konsep pemrograman dalam dunia web yang saat ini sudah sangat berkembang. Jenis web yang diperlukan pun bukan hanya web statis, melainkan web dinamis yang memungkinkan pengunjung situs untuk melakukan interaksi dengan halaman web yang dikunjungi.
+
+Tentu saja seperti pemrograman lain pada umumnya, perkembangan pemrograman web berawal dari proses yang sangat sederhana sampai akhirnya menghasilkan banyak sekali variasi tools yang bisa digunakan.
+
+HTML : HyperText Markup Language. Format umum yang digunakan dalam pemrograman web, termasuk kemampuan untuk menghubungkan satu dokumen ke dokumen lainnya.
+URI  : Uniform Resource Identifier. Merupakan sebuah alamat unik yang menjadi ciri dari sebuah dokumen pada suatu web.
+HTTP : HyperText Transfer Protocol. Sebuah protocol yang digunakan untuk menghubungkan setiap dokumen yang tersebar di internet.
+	   Pada bulan oktober 1990, Tim berners lee mencetuskan tiga teknologi yang menjadi cikal bakal website
+
+1. HTML = hyper text markup language
+
+2. URI  = uniform resource identifer
+
+3. HTTP = hyper text transfer protokol
+
+dan pada tahun 1994 twerciptalah WWWC(word wide web consortium)
+
+dan untuk saat ini ada banyak bahasa pemrograman seperti : java,PHP,Visual basic,pythone,c++dan javascript
+
+untuk saat ini yang menurut saya yang sudah tidak asing lagi adalah c++,pythone dan PHP(belum pernah mencoba)
+
+sebelum masuk ke proses developmnt, development merupakan pengembangan website/aplikasi juga bisa
+
+fungsi development sendiri untuk saling terhubung antar pengembang contoh dari sisi UI/UX designer
+
+dibawah ini tahapan proses development
+
+1. analisis
+
+2. desain
+
+3. implementasi
+
+4. pengujian
+
+5. perilisan
+
+6.perbaikan
+
+Implementasi sendiri yaitu penerapan dari desain ke script agar menjadi sebuah website yang sempurna
+
+contoh script membuat video html
+
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+      <meta charset="UTF=8"
+
+     <title>contoh implementasi video html</title>
+
+</head>
+
+<body>
+
+     <video controls>
+
+     <source src="nama file video kalian.mp4" type="video/mp4/>
+
+      dibuat satu file dengan script, penempatan video
+
+     </video>
+
+</body>
+
+</html>
+
+Perkembangan pemrograman berbasis web dimulai pada tahun 1989. DIkembangkan oleh Tim Berners-Lee yang semula HTML menjadi HTML 1.0. Teknik pemrograman pada HTML 1.0 saat itu masih sederhana, diantaranya adalah heading, paragraph, hypertext, list, format-format teks (tebal dan miring) dan image (gambar) sebagai bagian dari suatu dokumen web.
+
+Pada generasi HTML selanjutnya yaitu HTML 2.0 terdapat penambahan baru yaitu form dan tombol submit, Form memiliki fungsi untuk memasukkan data dalam bentuk ketikan menggunakan kotak penyuntingan (edit box), serta kotak daftar (list box) untuk mengambil suatu nilai dari daftar yang tersedia.
+
+Pada perkembangan generasi HTML selanjutnya HTML 3.0. Disebut juga dengan HTML+ yang kompatibel penuh dengan level 2. Fasilitas yang ditambahkan adalah pembuatan table dan gambar dengan menggunakan perintah baru FIGURE (peningkatan dari perintah IMAGE pada level 1) serta notasi dan rumus matematika. HTML 3.0 ini dikembangkan lagi menjadi HTML 3.2 , memiliki pengembangan baru yaitu applet java. Applet Java memiliki kemampuan untuk bisa meletakkan teks disekeliling gambar, superscript dan subscript, perataan table, latar belakang dengan gambar dan warna, frame dan style sheet yang bisa memisahkan layout suatu halaman dan isinya.
+
+Perkembangan HTML selanjutnya adalah HTML 4.0. Pengembangan fitur baru yaitu fitur CSS (Cascading Style Sheet) yang mendukung pembuatan aplikasi dinamis. Tahun 1999 muncul HTML 4.1, kemudian lahir XHTML 1.0. Secara prinsip HTML 4.1 sama dengan XHTML 1.0, yang membedakan hanya sintaks bahasanya. XHTML lebih ketat daripada HTML dengan mengharuskan pembuat dokumen mengikuti aturan XML (eXtended MarkUp Language). Selain itu, penulisan dokumen semua tag dan atribut harus ditulis dengan menggunakan huruf kecil. Sementara pada HTML tag dan atribut masih boleh ditulis dengan huruf kapital, huruf kecil, atau kombinasinya. XHTML 1.0 diteruskan dengan XHTML 2.0 (tapi kurang mendapat tanggapan dari para vendor).
+
+Kemudian Muncul HTML5 sebagai penyempurnaan dari HTML generasi sebelumnya. Pada HTML5 bebas menuliskan menggunakan huruf kecil, huruf kapital atau kombinasinya. Bahkan nilai atribut diberi tanda petik atau tidak, sama saja. penyempurnaan elemen baru yaitu semantik dan fitur baru diantaranya canvas, header, footer, audio, video dan time.
